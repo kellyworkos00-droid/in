@@ -23,6 +23,7 @@ export default function RootLayout({
             <div className="flex gap-4">
               <a href="/" className="hover:underline">Products</a>
               <a href="/movements" className="hover:underline">Movements</a>
+              <a href="/reports" className="hover:underline">Reports</a>
             </div>
           </div>
         </nav>
